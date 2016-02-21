@@ -34,4 +34,4 @@ node_modules
 
 
 #bower components directory
-./public/components
+public/components

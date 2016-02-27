@@ -17,8 +17,25 @@
   },
   "homepage": "https://github.com/alexdragonf/template#readme",
   "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react-native": "^1.4.0",
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.1",
-    "nodemon": "^1.9.0"
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-cached": "^1.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-filter": "^3.0.1",
+    "gulp-if": "^2.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-remember": "^0.3.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
   }
 }
